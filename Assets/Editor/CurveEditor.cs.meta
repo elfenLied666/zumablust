@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 2a4ebe49d9918f44d92ebbfce11ed3ae
+timeCreated: 1474928264
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - EditCurve: {fileID: 2800000, guid: 0bc319518a14db147b6fa3dd3b7275af, type: 3}
+  - ButtonAdd: {fileID: 2800000, guid: a0877dc626f1aff40a92dc1f71a29bc7, type: 3}
+  - ButtonDel: {fileID: 2800000, guid: 3b85611c43e8c4641ab69a34497312c3, type: 3}
+  - ButtonCntDel: {fileID: 2800000, guid: 8452e1cfbd6971d438d639934f03dfa3, type: 3}
+  - LengthCurve: {fileID: 2800000, guid: 3f713be2ae7393846a63e27fd8bca150, type: 3}
+  - Calculate: {fileID: 2800000, guid: 950f10c4da7ac10498cace956c722f16, type: 3}
+  - Other: {fileID: 2800000, guid: fb350a543a9708742b1e0a38e77f778e, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
